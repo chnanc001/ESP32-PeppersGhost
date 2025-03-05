@@ -32,7 +32,7 @@ For the displayed image, I first found a suitable GIF on [GIPHY](https://giphy.c
 ## The Build
 I designed an enclosure using [Fusion360](https://www.autodesk.com/ca-en/products/fusion-360/personal).  
 
-<img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/Prototype.jpg" width="300">
+<img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/CAD.PNG" width="300">
 
 The diagonal piece was cut out of clear thin acrylic - it is important that the acrylic used is thin otherwise you will see multiple reflections with a thicker piece of acrylic so the illusion does not look as good.  The image below shows an early prototype with the main body laser cut out of cardboard:
 
