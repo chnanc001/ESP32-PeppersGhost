@@ -27,16 +27,30 @@ What is most important is to edit the `User_Setup.h` file in the TFT-eSPI librar
 For the displayed image, I first found a suitable GIF on [GIPHY](https://giphy.com/), then resized and optimzed it for my display size using [Ezgif](https://ezgif.com/), finally the GIF file was converted to a hex code using a tool such as [this](https://tomeko.net/online_tools/file_to_hex.php?lang=en).  This must then be included as a header file in the project.  For this project, this can be seen in `brain.h`.
 
 ## Schematic
-<img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/schematic.PNG" width="600">
+<div align="center">
+  <img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/schematic.PNG" width="600">
+</div>
 
 ## The Build
+I soldered the ESP32 microcontroller to a set of male header pins such that the TFT display could simply be slotted in.
+
+<div align="center">
+  <img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/esp32-lcd.jpg" width="300">
+  <img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/esp32-lcd2.jpg" width="300">
+</div>
+
 I designed an enclosure using [Fusion360](https://www.autodesk.com/ca-en/products/fusion-360/personal).  
 
-<img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/CAD.PNG" width="300">
+<div align="center">
+  <img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/CAD.PNG" width="300">
+</div>
 
 The diagonal piece was cut out of clear thin acrylic - it is important that the acrylic used is thin otherwise you will see multiple reflections with a thicker piece of acrylic so the illusion does not look as good.  The image below shows an early prototype with the main body laser cut out of cardboard.
 
-<img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/Prototype.jpg" width="300">
+<div align="center">
+  <img src="https://github.com/chnanc001/ESP32-PeppersGhost/blob/main/peppersGhost/Images/Prototype.jpg" width="300">
+</div>
+
 
 I found it difficult to capture the illusion on camera, but it does look more convincing in person.
 
