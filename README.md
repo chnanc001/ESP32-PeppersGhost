@@ -1,7 +1,7 @@
 # ESP32-PeppersGhost
 For this project, I wanted to recreate a pepper ghost using an [ESP32 mircocontroller](https://www.amazon.ca/dp/B0C9THDPXP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) and [TFT screen](https://www.amazon.ca/dp/B07BFV69DZ?ref=ppx_yo2ov_dt_b_fed_asin_title).
 
-A pepper's ghost is the technique of reflecting the image on a display onto a slanted piece of clear glass/acrylic to create the illusion of a ghost or "hologram."
+A [pepper's ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost) is the technique of reflecting the image on a display onto a slanted piece of clear glass/acrylic to create the illusion of a ghost or "hologram."
 
 For the purposes of this project I just found a suitable gif to display.  What I found works best is ones with black background and saturated colours, also if some 3D movement also works great.
 
